@@ -1,0 +1,5 @@
+/Users/Clement/Desktop/Traducteur/Traducteur/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Clement/Desktop/Traducteur/Traducteur/bin/Debug/Traducteur.exe.mdb
+/Users/Clement/Desktop/Traducteur/Traducteur/bin/Debug/Traducteur.exe
+/Users/Clement/Desktop/Traducteur/Traducteur/obj/x86/Debug/Traducteur.exe
+/Users/Clement/Desktop/Traducteur/Traducteur/obj/x86/Debug/Traducteur.exe.mdb

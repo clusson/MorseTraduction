@@ -1,0 +1,8 @@
+/Users/Clement/Desktop/Traducteur/TestUnitaires/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Clement/Desktop/Traducteur/TestUnitaires/bin/Debug/TestUnitaires.dll.mdb
+/Users/Clement/Desktop/Traducteur/TestUnitaires/bin/Debug/TestUnitaires.dll
+/Users/Clement/Desktop/Traducteur/TestUnitaires/obj/Debug/TestUnitaires.dll
+/Users/Clement/Desktop/Traducteur/TestUnitaires/obj/Debug/TestUnitaires.dll.mdb
+/Users/Clement/Desktop/Traducteur/TestUnitaires/bin/Debug/nunit.framework.dll
+/Users/Clement/Desktop/Traducteur/TestUnitaires/bin/Debug/Traducteur.exe
+/Users/Clement/Desktop/Traducteur/TestUnitaires/bin/Debug/Traducteur.exe.mdb
